@@ -1,0 +1,1 @@
+find . -name "*~" -a -name "*#" -or "#*" -exec rm -r
