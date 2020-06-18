@@ -1,2 +1,2 @@
-FT_USER=lsibeko
+# 1/bin/sh
 groups $FT_USER | tr ' ' ','
